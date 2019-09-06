@@ -23,7 +23,7 @@ nom=[
 "Flammkuchen",
 "Burrito",
 "Zwiebelrostbraten",
-"Hawai Toast".
+"Hawai Toast",
 "Arme Ritter",
 "Gefüllte Paprika",
 "Pfannkuchen",
